@@ -1,0 +1,13 @@
+A simple python script to send emails via Gmail to a list of contacts with customizable personal subjects and contents.
+Attachments are supported.
+
+Requirements:
+    Python 3
+Usage:
+    $ cp config.new config
+    $ cp subject.new subject
+    $ cp content.new content
+    $ cp list.new list
+    ... edit config, subject, content, list
+    $ chomod +x sendmails.py
+    $ ./sendmails.py

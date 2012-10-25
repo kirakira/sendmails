@@ -1,0 +1,6 @@
+#declare variables. seperated by semicolons
+<%name>; <%food>
+
+#name, email_address, attachments (filenames seperated by semicolons), variable_definitions (in the order above; seperated by semicolons)
+Little White Rabbit, rabbit@forest, carrot.jpg, Rabbit; carrot
+Big Gray Wolf, wolf@forest, rabbit.jpg, Wolf; little red rabbit
