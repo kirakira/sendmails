@@ -1,4 +1,4 @@
-A simple python script to send emails via Gmail to a list of contacts with customizable personal subjects and contents.
+A simple python script to send emails via Gmail to a contact group with personalized subjects and contents.
 Attachments are supported.
 
 Requirements:
